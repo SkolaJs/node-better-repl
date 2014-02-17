@@ -1,0 +1,22 @@
+{
+  "name": "better-repl",
+  "version": "0.1.0",
+  "description": "When only result is [Function], type require('better-inspect')",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SkolaJs/node-better-repl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkolaJs/node-better-repl/issues"
+  },
+  "homepage": "https://github.com/SkolaJs/node-better-repl",
+  "dependencies": {
+    "better-inspect": "0.0.1"
+  }
+}
